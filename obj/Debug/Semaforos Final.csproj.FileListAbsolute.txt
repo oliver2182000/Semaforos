@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\Semaforos Final\bin\Debug\Semaforos Final.exe.config
+C:\Users\DELL\source\repos\Semaforos Final\bin\Debug\Semaforos Final.exe
+C:\Users\DELL\source\repos\Semaforos Final\bin\Debug\Semaforos Final.pdb
+C:\Users\DELL\source\repos\Semaforos Final\obj\Debug\Semaforos Final.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Semaforos Final\obj\Debug\Semaforos_Final.Form1.resources
+C:\Users\DELL\source\repos\Semaforos Final\obj\Debug\Semaforos_Final.Properties.Resources.resources
+C:\Users\DELL\source\repos\Semaforos Final\obj\Debug\Semaforos Final.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Semaforos Final\obj\Debug\Semaforos Final.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Semaforos Final\obj\Debug\Semaforos Final.exe
+C:\Users\DELL\source\repos\Semaforos Final\obj\Debug\Semaforos Final.pdb
